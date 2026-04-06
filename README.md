@@ -53,4 +53,4 @@ Drop your academic PDFs into the `papers/` directory and run:
 python synthesizer.py
 ```
 
-Generated exclusively by Antigravity Multi-Agent Architecture.
+Generated Entirely with Vibe Coding.
